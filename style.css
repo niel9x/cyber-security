@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+}
+
+body {
+    background-color: #efeae4;
+}
+
+header {
+    background-color: #373737;
+    height: 60px;
+    width: auto;
+    -webkit-box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+}
+
+header .logo img {
+    height: 300px;
+    position: absolute;
+    padding-top: 60px;
+}
+
+header .logo {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.content-img {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 100px;
+}
+
+.content-img img {
+    width: 500px;
+    height: 400px;
+}
+
+.text-card {
+    width: 900px;
+    height: 350px;
+    background-color: #badb73;
+    display: flex;
+    justify-content: end;
+    border-radius: 32px;
+    -webkit-box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 11px 0px rgba(0,0,0,0.75);
+}
+
+.title {
+    margin-left: 300px;
+    display: flex;
+    position:absolute;
+    padding-top: 50px;
+}
+
+.materia2 {
+    padding-top: 0px;
+    background-color: #453845;
+    height: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.materia3 {
+    padding-top: 0px;
+    background-color: #3b657a;
+    height: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.materia4 {
+    background-color: #bdd1de;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.materia {
+    text-justify: center;
+    text-align: center;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.materia span {
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.materia2 span {
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.materia3 span {
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.materia4 span {
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
